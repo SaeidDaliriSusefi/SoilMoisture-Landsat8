@@ -1,6 +1,6 @@
 # SoilMoisture-Landsat8
 
-![image alt](https://github.com/SaeidDaliriSusefi/SoilMoisture-Landsat8/blob/8e9754d0a9f97dfbd29e66ca0b62eea5e0fd4292/Images/Formula.png)
+![image alt](https://github.com/SaeidDaliriSusefi/SoilMoisture-Landsat8/blob/2edf2ec030502260f249df001bf9ddd17fa447cf/Images/L8-Formula.png)
 
 
 
