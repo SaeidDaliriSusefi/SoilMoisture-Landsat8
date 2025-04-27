@@ -12,6 +12,7 @@ The methodology involves using Landsat-8 thermal infrared (TIR) and vegetation i
 
 ## 🛠️ Requirements
 Google Earth Engine Python API, geemap
+
 Python libraries:numpy, matplotlib
 
 
