@@ -10,12 +10,12 @@ The methodology involves using Landsat-8 thermal infrared (TIR) and vegetation i
 ![image alt](https://github.com/SaeidDaliriSusefi/SoilMoisture-Landsat8/blob/e437231628ef0a97f37d612e966d32c4991d219f/Images/L8-SoilFormula.png)
 
 
+## 🛠️ Requirements
+Google Earth Engine Python API, geemap
+Python libraries:numpy, matplotlib
+
 
 ## 📸 Example Outputs:
 ![image alt](https://github.com/SaeidDaliriSusefi/SoilMoisture-Landsat8/blob/efa2e527783117ecd2cdb03fce507486834f4677/Images/soil_moisture_trend.png)
 
 
-🛠️ Requirements
-Google Earth Engine Python API, geemap
-
-Python libraries:numpy, matplotlib
